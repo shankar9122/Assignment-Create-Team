@@ -106,6 +106,7 @@ export default function Stepercomponent() {
         window.localStorage.designation = JSON.stringify(temp)
     };
 
+    // Remove member form data-------
     const handleRemove = () => {
         setIsRender(!isRender);
         let temp = { ...designationData };
