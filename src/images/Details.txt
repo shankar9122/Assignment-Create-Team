@@ -1,0 +1,38 @@
+Requirements:
+- Development in React 18
+- Follow React best practise and design guidelines
+- Use Redux 
+- Use Style Component
+- Load data from mock API (JSON DATA), use Axios to mock API (you can create mock data according to UI)
+- Added member should store in browser LocalStorage 
+- Team member data should load from local storage next time
+- Operations like removing members should take place in local storage
+- Member data should get removed, and modified in local storage itself
+- Use Bootstrap or Tailwind for quick UI development 
+
+
+
+
+Style Guidelines
+
+Font Family: Roboto Slab
+
+Images were taken from Google Images (Put relevant)
+
+
+Colors:
+
+Header Side items: #0169FE;
+
+Primary Button and Text Blue collar: #2B3990;
+Secondary Color: #545479;
+
+Primary Black: #333333;
+Secondary Dark Colour: #545479;
+
+
+Other style details you can think of on your own
+
+
+
+

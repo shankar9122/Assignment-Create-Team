@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "categories": "Project Manager",
+        "member": [
+            {
+                "id": 1,
+                "role": "projectManager",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "projectManager",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "projectManager",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "projectManager",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "projectManager",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "projectManager",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categories": "UI/UX Designer",
+        "member": [
+            {
+                "id": 1,
+                "role": "uiuxDesigner",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "uiuxDesigner",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "uiuxDesigner",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "uiuxDesigner",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "uiuxDesigner",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "uiuxDesigner",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "categories": "Front End Developer",
+        "member": [
+            {
+                "id": 1,
+                "role": "frontEnd",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "frontEnd",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "frontEnd",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "frontEnd",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "frontEnd",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "frontEnd",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "categories": "Back End Developer",
+        "member": [
+            {
+                "id": 1,
+                "role": "backEnd",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "backEnd",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "backEnd",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "backEnd",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "backEnd",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "backEnd",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "categories": "QA/Tester",
+        "member": [
+            {
+                "id": 1,
+                "role": "qaTester",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "qaTester",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "qaTester",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "qaTester",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "qaTester",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "qaTester",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "categories": "DevOps",
+        "member": [
+            {
+                "id": 1,
+                "role": "devOps",
+                "name": "John Torry",
+                "experience": "3 yrs Exp"
+            },
+            {
+                "id": 2,
+                "role": "devOps",
+                "name": "Robertson",
+                "experience": "6 yrs Exp"
+            },
+            {
+                "id": 3,
+                "role": "devOps",
+                "name": "Maria",
+                "experience": "2 yrs Exp"
+            },
+            {
+                "id": 4,
+                "role": "devOps",
+                "name": "Alexander",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 5,
+                "role": "devOps",
+                "name": "Serina",
+                "experience": "8 yrs Exp"
+            },
+            {
+                "id": 6,
+                "role": "devOps",
+                "name": "Frank",
+                "experience": "7 yrs Exp"
+            }
+        ]
+    }
+]

@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body{
+  font-family: 'Roboto Slab', serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+::-webkit-scrollbar:horizontal {
+  width: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+::-webkit-scrollbar-track {
+  background: #f0f1f1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+::-webkit-scrollbar-thumb {
+  background: #00256f;
+  border-radius: 4px;
+}
+
+::-moz-scrollbar {
+  width: 10px;
+  scrollbar-width: thin;
+}
+
+::-moz-scrollbar-track {
+  background: #f0f1f1;
+}
+
+::-moz-scrollbar-thumb {
+  background: #00256f;
+}
+
+*:hover::-webkit-scrollbar{
+  height: 8px;
+}
+
+*:hover::-moz-scrollbar{
+  height: 8px;
 }
