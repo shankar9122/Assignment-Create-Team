@@ -96,7 +96,7 @@ export default function Stepercomponent() {
     };
 
 
-
+// Add data in Team-------
     const handleAdd = (data) => {
         setIsRender(!isRender);
         let temp = { ...designationData };
